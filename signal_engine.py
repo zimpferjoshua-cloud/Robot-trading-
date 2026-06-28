@@ -34,6 +34,8 @@ def fetch_price_history(ticker: str, period: str = "6mo", interval: str = "1d"):
         data = yf.download(ticker, period=period, interval=interval, progress=False, auto_adjust=True)
         if data is None or data.empty or len(data) < 60:
             return None
+        if isinstance(data.columns, pd.MultiIndex):
+            data.columns = data.columns.get_level_values(0)
         return data
     except Exception as e:
         print(f"[ERREUR] Impossible de récupérer {ticker} : {e}")
@@ -142,6 +144,21 @@ def run_once():
     save_current_signals(signaux)
     append_to_history(signaux)
     return signaux
+
+
+def run_forever(interval_minutes: int = 30):
+    """
+    Boucle infinie : relance le scan toutes les X minutes,
+    uniquement pendant les heures d'ouverture du marché américain.
+    """
+    while True:
+        if is_market_open():
+            run_once()
+            print(f"Prochain scan dans {interval_minutes} minutes...\n")
+            time.sleep(interval_minutes * 60)
+        else:
+            print(next_market_status_message() + " Nouvelle vérification dans 15 minutes.")
+            time.sleep(15 * 60)
 
 
 if __name__ == "__main__":

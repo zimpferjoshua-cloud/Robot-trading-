@@ -1,0 +1,35 @@
+name: Scan boursier automatique
+
+on:
+  schedule:
+    - cron: '*/30 13-21 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le scan
+        run: python signal_engine.py
+
+      - name: Sauvegarder les résultats
+        run: |
+          git config --local user.email "robot@github.com"
+          git config --local user.name "Robot Trading"
+          git add data/
+          git diff --staged --quiet || git commit -m "Mise à jour des signaux"
+          git push

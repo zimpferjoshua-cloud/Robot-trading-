@@ -1,1 +1,19 @@
 
+// Service worker minimal pour Robot Trading.
+// Son seul rôle ici est de satisfaire la condition technique requise
+// par les téléphones pour proposer "Ajouter à l'écran d'accueil".
+// Il ne met rien en cache : l'app va toujours chercher les derniers
+// signaux en ligne, pour ne jamais afficher de données obsolètes.
+
+self.addEventListener('install', (event) => {
+  self.skipWaiting();
+});
+
+self.addEventListener('activate', (event) => {
+  self.clients.claim();
+});
+
+self.addEventListener('fetch', (event) => {
+  // Laisse passer toutes les requêtes normalement vers le réseau.
+  event.respondWith(fetch(event.request));
+});

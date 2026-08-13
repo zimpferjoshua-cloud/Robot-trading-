@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-13T20:32:54.231606+00:00",
+  "updated_at": "2026-08-13T21:36:25.627410+00:00",
   "signals": [
+    {
+      "ticker": "AAPL",
+      "action": "ATTENTE",
+      "prix": 305.26,
+      "raisons": [
+        "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
+      ],
+      "indicateurs": {
+        "sma20": 319.6,
+        "sma50": 309.03,
+        "rsi": 29.6,
+        "macd_histogramme": -3.001,
+        "atr": 8.8
+      },
+      "stop_loss_suggere": null,
+      "take_profit_suggere": null,
+      "horodatage": "2026-08-13T21:36:07.912025+00:00"
+    },
     {
       "ticker": "MSFT",
       "action": "ATTENTE",
@@ -17,7 +35,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:37.483598+00:00"
+      "horodatage": "2026-08-13T21:36:08.576732+00:00"
     },
     {
       "ticker": "GOOGL",
@@ -35,7 +53,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:38.143992+00:00"
+      "horodatage": "2026-08-13T21:36:09.196146+00:00"
     },
     {
       "ticker": "AMZN",
@@ -53,7 +71,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:38.763078+00:00"
+      "horodatage": "2026-08-13T21:36:09.802987+00:00"
     },
     {
       "ticker": "NVDA",
@@ -71,7 +89,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:39.413652+00:00"
+      "horodatage": "2026-08-13T21:36:10.451701+00:00"
     },
     {
       "ticker": "META",
@@ -91,7 +109,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:40.081009+00:00"
+      "horodatage": "2026-08-13T21:36:11.077408+00:00"
     },
     {
       "ticker": "TSLA",
@@ -109,7 +127,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:40.751985+00:00"
+      "horodatage": "2026-08-13T21:36:11.688423+00:00"
     },
     {
       "ticker": "JPM",
@@ -127,7 +145,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:41.459933+00:00"
+      "horodatage": "2026-08-13T21:36:12.463860+00:00"
     },
     {
       "ticker": "V",
@@ -145,7 +163,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:42.163510+00:00"
+      "horodatage": "2026-08-13T21:36:13.118192+00:00"
     },
     {
       "ticker": "JNJ",
@@ -163,7 +181,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:42.944948+00:00"
+      "horodatage": "2026-08-13T21:36:13.891134+00:00"
     },
     {
       "ticker": "WMT",
@@ -181,7 +199,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:43.673664+00:00"
+      "horodatage": "2026-08-13T21:36:14.656825+00:00"
     },
     {
       "ticker": "PG",
@@ -199,7 +217,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:44.503557+00:00"
+      "horodatage": "2026-08-13T21:36:15.411459+00:00"
     },
     {
       "ticker": "MA",
@@ -217,26 +235,25 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:45.212283+00:00"
+      "horodatage": "2026-08-13T21:36:16.071290+00:00"
     },
     {
       "ticker": "HD",
-      "action": "ACHAT",
+      "action": "ATTENTE",
       "prix": 341.7,
       "raisons": [
-        "Tendance haussière confirmée, momentum en accélération",
-        "RSI à 56 (marge avant surachat)"
+        "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 341.51,
-        "sma50": 336.68,
+        "sma20": 340.69,
+        "sma50": 337.13,
         "rsi": 55.7,
-        "macd_histogramme": 0.106,
+        "macd_histogramme": 0.178,
         "atr": 8.74
       },
-      "stop_loss_suggere": 324.22,
-      "take_profit_suggere": 367.93,
-      "horodatage": "2026-08-13T20:32:45.985729+00:00"
+      "stop_loss_suggere": null,
+      "take_profit_suggere": null,
+      "horodatage": "2026-08-13T21:36:16.771981+00:00"
     },
     {
       "ticker": "DIS",
@@ -254,7 +271,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:46.743411+00:00"
+      "horodatage": "2026-08-13T21:36:17.507730+00:00"
     },
     {
       "ticker": "BAC",
@@ -272,7 +289,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:47.450842+00:00"
+      "horodatage": "2026-08-13T21:36:18.262060+00:00"
     },
     {
       "ticker": "XOM",
@@ -291,7 +308,7 @@
       },
       "stop_loss_suggere": 150.43,
       "take_profit_suggere": 170.88,
-      "horodatage": "2026-08-13T20:32:48.209242+00:00"
+      "horodatage": "2026-08-13T21:36:19.073000+00:00"
     },
     {
       "ticker": "PFE",
@@ -309,7 +326,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:48.959106+00:00"
+      "horodatage": "2026-08-13T21:36:20.071800+00:00"
     },
     {
       "ticker": "KO",
@@ -327,7 +344,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:49.724884+00:00"
+      "horodatage": "2026-08-13T21:36:20.842848+00:00"
     },
     {
       "ticker": "NFLX",
@@ -345,7 +362,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:50.362531+00:00"
+      "horodatage": "2026-08-13T21:36:21.708316+00:00"
     },
     {
       "ticker": "ADBE",
@@ -363,7 +380,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:50.988599+00:00"
+      "horodatage": "2026-08-13T21:36:22.355627+00:00"
     },
     {
       "ticker": "CRM",
@@ -381,7 +398,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:51.629588+00:00"
+      "horodatage": "2026-08-13T21:36:22.974975+00:00"
     },
     {
       "ticker": "INTC",
@@ -399,7 +416,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:52.361368+00:00"
+      "horodatage": "2026-08-13T21:36:23.733600+00:00"
     },
     {
       "ticker": "CSCO",
@@ -417,7 +434,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:52.992461+00:00"
+      "horodatage": "2026-08-13T21:36:24.394194+00:00"
     },
     {
       "ticker": "PEP",
@@ -435,7 +452,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-08-13T20:32:53.731349+00:00"
+      "horodatage": "2026-08-13T21:36:25.127215+00:00"
     }
   ]
 }

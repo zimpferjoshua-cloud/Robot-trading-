@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:20:10.542560+00:00",
+  "updated_at": "2026-09-15T23:00:01.960545+00:00",
   "signals": [
     {
       "ticker": "AAPL",
@@ -19,7 +19,7 @@
       },
       "stop_loss_suggere": 315.72,
       "take_profit_suggere": 354.77,
-      "horodatage": "2026-09-15T20:19:51.517206+00:00"
+      "horodatage": "2026-09-15T22:59:44.484189+00:00"
     },
     {
       "ticker": "MSFT",
@@ -37,7 +37,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:52.316026+00:00"
+      "horodatage": "2026-09-15T22:59:45.123231+00:00"
     },
     {
       "ticker": "GOOGL",
@@ -55,7 +55,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:53.019420+00:00"
+      "horodatage": "2026-09-15T22:59:45.749767+00:00"
     },
     {
       "ticker": "AMZN",
@@ -73,7 +73,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:53.727683+00:00"
+      "horodatage": "2026-09-15T22:59:46.417211+00:00"
     },
     {
       "ticker": "NVDA",
@@ -91,7 +91,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:54.578019+00:00"
+      "horodatage": "2026-09-15T22:59:47.137695+00:00"
     },
     {
       "ticker": "META",
@@ -109,7 +109,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:55.264290+00:00"
+      "horodatage": "2026-09-15T22:59:47.808429+00:00"
     },
     {
       "ticker": "TSLA",
@@ -128,7 +128,7 @@
       },
       "stop_loss_suggere": 328.61,
       "take_profit_suggere": 398.54,
-      "horodatage": "2026-09-15T20:19:55.954120+00:00"
+      "horodatage": "2026-09-15T22:59:48.427322+00:00"
     },
     {
       "ticker": "JPM",
@@ -146,7 +146,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:56.700457+00:00"
+      "horodatage": "2026-09-15T22:59:49.095705+00:00"
     },
     {
       "ticker": "V",
@@ -164,7 +164,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:57.426960+00:00"
+      "horodatage": "2026-09-15T22:59:49.717587+00:00"
     },
     {
       "ticker": "JNJ",
@@ -182,7 +182,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:58.294305+00:00"
+      "horodatage": "2026-09-15T22:59:50.426843+00:00"
     },
     {
       "ticker": "WMT",
@@ -200,7 +200,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:19:59.082549+00:00"
+      "horodatage": "2026-09-15T22:59:51.245765+00:00"
     },
     {
       "ticker": "PG",
@@ -217,9 +217,9 @@
         "macd_histogramme": 0.157,
         "atr": 2.33
       },
-      "stop_loss_suggere": 142.0,
+      "stop_loss_suggere": 142.01,
       "take_profit_suggere": 153.67,
-      "horodatage": "2026-09-15T20:19:59.963900+00:00"
+      "horodatage": "2026-09-15T22:59:51.947802+00:00"
     },
     {
       "ticker": "MA",
@@ -237,7 +237,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:00.691199+00:00"
+      "horodatage": "2026-09-15T22:59:52.717719+00:00"
     },
     {
       "ticker": "HD",
@@ -255,7 +255,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:01.458957+00:00"
+      "horodatage": "2026-09-15T22:59:53.399609+00:00"
     },
     {
       "ticker": "DIS",
@@ -273,7 +273,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:02.262485+00:00"
+      "horodatage": "2026-09-15T22:59:54.190960+00:00"
     },
     {
       "ticker": "BAC",
@@ -291,7 +291,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:03.009101+00:00"
+      "horodatage": "2026-09-15T22:59:54.893578+00:00"
     },
     {
       "ticker": "XOM",
@@ -309,7 +309,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:03.831726+00:00"
+      "horodatage": "2026-09-15T22:59:55.586131+00:00"
     },
     {
       "ticker": "PFE",
@@ -327,7 +327,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:04.618277+00:00"
+      "horodatage": "2026-09-15T22:59:56.418055+00:00"
     },
     {
       "ticker": "KO",
@@ -345,7 +345,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:05.517899+00:00"
+      "horodatage": "2026-09-15T22:59:57.219964+00:00"
     },
     {
       "ticker": "NFLX",
@@ -363,7 +363,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:06.275358+00:00"
+      "horodatage": "2026-09-15T22:59:57.890167+00:00"
     },
     {
       "ticker": "ADBE",
@@ -381,7 +381,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:06.992231+00:00"
+      "horodatage": "2026-09-15T22:59:58.599918+00:00"
     },
     {
       "ticker": "CRM",
@@ -399,7 +399,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:07.688928+00:00"
+      "horodatage": "2026-09-15T22:59:59.341828+00:00"
     },
     {
       "ticker": "INTC",
@@ -417,7 +417,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:08.431532+00:00"
+      "horodatage": "2026-09-15T23:00:00.071483+00:00"
     },
     {
       "ticker": "CSCO",
@@ -435,7 +435,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:09.224316+00:00"
+      "horodatage": "2026-09-15T23:00:00.740160+00:00"
     },
     {
       "ticker": "PEP",
@@ -453,7 +453,7 @@
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-09-15T20:20:10.042234+00:00"
+      "horodatage": "2026-09-15T23:00:01.460272+00:00"
     }
   ]
 }

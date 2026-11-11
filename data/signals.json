@@ -1,249 +1,249 @@
 {
-  "updated_at": "2026-11-10T20:06:53.494634+00:00",
+  "updated_at": "2026-11-11T00:44:06.868311+00:00",
   "signals": [
     {
       "ticker": "AAPL",
       "action": "ATTENTE",
-      "prix": 348.36,
+      "prix": 348.51,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
         "sma20": 344.23,
-        "sma50": 337.26,
-        "rsi": 53.0,
-        "macd_histogramme": -0.077,
+        "sma50": 337.27,
+        "rsi": 53.1,
+        "macd_histogramme": -0.067,
         "atr": 9.49
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:36.603860+00:00"
+      "horodatage": "2026-11-11T00:43:50.628807+00:00"
     },
     {
       "ticker": "MSFT",
       "action": "ATTENTE",
-      "prix": 532.3,
+      "prix": 533.16,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 531.05,
-        "sma50": 517.78,
-        "rsi": 49.8,
-        "macd_histogramme": -0.168,
+        "sma20": 531.09,
+        "sma50": 517.8,
+        "rsi": 50.1,
+        "macd_histogramme": -0.113,
         "atr": 17.29
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:37.276739+00:00"
+      "horodatage": "2026-11-11T00:43:51.271683+00:00"
     },
     {
       "ticker": "GOOGL",
       "action": "ATTENTE",
-      "prix": 286.97,
+      "prix": 287.38,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 310.87,
-        "sma50": 330.7,
-        "rsi": 24.9,
-        "macd_histogramme": -1.807,
+        "sma20": 310.89,
+        "sma50": 330.71,
+        "rsi": 25.0,
+        "macd_histogramme": -1.781,
         "atr": 11.41
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:37.923186+00:00"
+      "horodatage": "2026-11-11T00:43:51.887105+00:00"
     },
     {
       "ticker": "AMZN",
       "action": "ACHAT",
-      "prix": 271.65,
+      "prix": 270.87,
       "raisons": [
         "Tendance haussière confirmée, momentum en accélération",
-        "RSI à 56 (marge avant surachat)"
+        "RSI à 55 (marge avant surachat)"
       ],
       "indicateurs": {
-        "sma20": 255.3,
-        "sma50": 254.2,
-        "rsi": 55.8,
-        "macd_histogramme": 2.146,
+        "sma20": 255.26,
+        "sma50": 254.18,
+        "rsi": 55.4,
+        "macd_histogramme": 2.096,
         "atr": 10.68
       },
-      "stop_loss_suggere": 250.3,
-      "take_profit_suggere": 303.68,
-      "horodatage": "2026-11-10T20:06:38.605899+00:00"
+      "stop_loss_suggere": 249.52,
+      "take_profit_suggere": 302.9,
+      "horodatage": "2026-11-11T00:43:52.491268+00:00"
     },
     {
       "ticker": "NVDA",
       "action": "ATTENTE",
-      "prix": 166.64,
+      "prix": 168.89,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 206.07,
-        "sma50": 217.92,
-        "rsi": 18.8,
-        "macd_histogramme": -4.424,
+        "sma20": 206.18,
+        "sma50": 217.97,
+        "rsi": 19.3,
+        "macd_histogramme": -4.281,
         "atr": 9.29
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:39.259363+00:00"
+      "horodatage": "2026-11-11T00:43:53.152200+00:00"
     },
     {
       "ticker": "META",
       "action": "ATTENTE",
-      "prix": 642.24,
+      "prix": 641.39,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 651.58,
-        "sma50": 677.45,
-        "rsi": 36.2,
-        "macd_histogramme": -0.264,
+        "sma20": 651.54,
+        "sma50": 677.44,
+        "rsi": 35.9,
+        "macd_histogramme": -0.318,
         "atr": 23.9
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:39.892824+00:00"
+      "horodatage": "2026-11-11T00:43:53.782039+00:00"
     },
     {
       "ticker": "TSLA",
       "action": "ATTENTE",
-      "prix": 377.28,
+      "prix": 379.78,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 380.53,
-        "sma50": 372.91,
-        "rsi": 47.1,
-        "macd_histogramme": -3.092,
-        "atr": 18.26
+        "sma20": 380.65,
+        "sma50": 372.96,
+        "rsi": 47.9,
+        "macd_histogramme": -2.932,
+        "atr": 18.3
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:40.525370+00:00"
+      "horodatage": "2026-11-11T00:43:54.392992+00:00"
     },
     {
       "ticker": "JPM",
       "action": "ACHAT",
-      "prix": 343.77,
+      "prix": 342.07,
       "raisons": [
         "Tendance haussière confirmée, momentum en accélération",
-        "RSI à 56 (marge avant surachat)"
+        "RSI à 55 (marge avant surachat)"
       ],
       "indicateurs": {
-        "sma20": 338.04,
-        "sma50": 340.45,
-        "rsi": 56.0,
-        "macd_histogramme": 0.813,
+        "sma20": 337.95,
+        "sma50": 340.41,
+        "rsi": 54.9,
+        "macd_histogramme": 0.704,
         "atr": 7.95
       },
-      "stop_loss_suggere": 327.87,
-      "take_profit_suggere": 367.63,
-      "horodatage": "2026-11-10T20:06:41.209944+00:00"
+      "stop_loss_suggere": 326.17,
+      "take_profit_suggere": 365.92,
+      "horodatage": "2026-11-11T00:43:55.054679+00:00"
     },
     {
       "ticker": "V",
       "action": "ACHAT",
-      "prix": 423.81,
+      "prix": 423.0,
       "raisons": [
         "Tendance haussière confirmée, momentum en accélération",
-        "RSI à 60 (marge avant surachat)"
+        "RSI à 59 (marge avant surachat)"
       ],
       "indicateurs": {
-        "sma20": 411.89,
-        "sma50": 387.54,
-        "rsi": 59.7,
-        "macd_histogramme": 0.177,
+        "sma20": 411.85,
+        "sma50": 387.53,
+        "rsi": 59.3,
+        "macd_histogramme": 0.125,
         "atr": 9.9
       },
-      "stop_loss_suggere": 404.01,
-      "take_profit_suggere": 453.51,
-      "horodatage": "2026-11-10T20:06:41.922177+00:00"
+      "stop_loss_suggere": 403.2,
+      "take_profit_suggere": 452.7,
+      "horodatage": "2026-11-11T00:43:55.696386+00:00"
     },
     {
       "ticker": "JNJ",
       "action": "ACHAT",
-      "prix": 280.57,
+      "prix": 280.78,
       "raisons": [
         "Croisement haussier des moyennes mobiles (20j au-dessus de 50j)",
         "RSI à 69 (pas de surachat)",
         "MACD positif (momentum haussier confirmé)"
       ],
       "indicateurs": {
-        "sma20": 267.19,
-        "sma50": 266.36,
-        "rsi": 69.1,
-        "macd_histogramme": 1.627,
+        "sma20": 267.2,
+        "sma50": 266.37,
+        "rsi": 69.4,
+        "macd_histogramme": 1.64,
         "atr": 7.77
       },
-      "stop_loss_suggere": 265.03,
-      "take_profit_suggere": 303.88,
-      "horodatage": "2026-11-10T20:06:42.639959+00:00"
+      "stop_loss_suggere": 265.24,
+      "take_profit_suggere": 304.09,
+      "horodatage": "2026-11-11T00:43:56.382280+00:00"
     },
     {
       "ticker": "WMT",
       "action": "ATTENTE",
-      "prix": 125.96,
+      "prix": 125.55,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 121.9,
-        "sma50": 113.36,
-        "rsi": 65.3,
-        "macd_histogramme": 0.112,
+        "sma20": 121.88,
+        "sma50": 113.35,
+        "rsi": 64.7,
+        "macd_histogramme": 0.086,
         "atr": 3.19
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:43.341284+00:00"
+      "horodatage": "2026-11-11T00:43:57.073438+00:00"
     },
     {
       "ticker": "PG",
       "action": "ATTENTE",
-      "prix": 169.04,
+      "prix": 168.66,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 161.42,
+        "sma20": 161.4,
         "sma50": 152.24,
-        "rsi": 70.3,
-        "macd_histogramme": 0.445,
+        "rsi": 70.0,
+        "macd_histogramme": 0.42,
         "atr": 3.85
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:44.098561+00:00"
+      "horodatage": "2026-11-11T00:43:57.784238+00:00"
     },
     {
       "ticker": "MA",
       "action": "ATTENTE",
-      "prix": 659.85,
+      "prix": 658.84,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 633.14,
-        "sma50": 595.22,
-        "rsi": 62.8,
-        "macd_histogramme": 1.454,
+        "sma20": 633.09,
+        "sma50": 595.2,
+        "rsi": 62.5,
+        "macd_histogramme": 1.39,
         "atr": 16.58
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:44.753605+00:00"
+      "horodatage": "2026-11-11T00:43:58.422105+00:00"
     },
     {
       "ticker": "HD",
       "action": "ATTENTE",
-      "prix": 351.04,
+      "prix": 351.0,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
@@ -251,210 +251,210 @@
         "sma20": 327.09,
         "sma50": 310.22,
         "rsi": 68.3,
-        "macd_histogramme": 2.867,
+        "macd_histogramme": 2.865,
         "atr": 10.5
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:45.451210+00:00"
+      "horodatage": "2026-11-11T00:43:59.084790+00:00"
     },
     {
       "ticker": "DIS",
       "action": "ATTENTE",
-      "prix": 119.07,
+      "prix": 119.21,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
         "sma20": 112.95,
         "sma50": 108.49,
-        "rsi": 68.2,
-        "macd_histogramme": 0.647,
-        "atr": 2.55
+        "rsi": 68.5,
+        "macd_histogramme": 0.655,
+        "atr": 2.56
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:46.163729+00:00"
+      "horodatage": "2026-11-11T00:43:59.779287+00:00"
     },
     {
       "ticker": "BAC",
       "action": "ATTENTE",
-      "prix": 50.78,
+      "prix": 50.68,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 50.62,
+        "sma20": 50.61,
         "sma50": 54.76,
-        "rsi": 50.0,
-        "macd_histogramme": 0.276,
+        "rsi": 49.4,
+        "macd_histogramme": 0.269,
         "atr": 1.25
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:46.859581+00:00"
+      "horodatage": "2026-11-11T00:44:00.445733+00:00"
     },
     {
       "ticker": "XOM",
       "action": "ATTENTE",
-      "prix": 164.75,
+      "prix": 164.47,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 176.52,
+        "sma20": 176.51,
         "sma50": 169.06,
-        "rsi": 34.2,
-        "macd_histogramme": -2.582,
-        "atr": 5.15
+        "rsi": 33.9,
+        "macd_histogramme": -2.6,
+        "atr": 5.16
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:47.588533+00:00"
+      "horodatage": "2026-11-11T00:44:01.131237+00:00"
     },
     {
       "ticker": "PFE",
       "action": "ATTENTE",
-      "prix": 29.34,
+      "prix": 29.36,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
         "sma20": 29.48,
         "sma50": 28.4,
-        "rsi": 49.3,
-        "macd_histogramme": -0.104,
+        "rsi": 49.4,
+        "macd_histogramme": -0.103,
         "atr": 0.75
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:48.283489+00:00"
+      "horodatage": "2026-11-11T00:44:01.826913+00:00"
     },
     {
       "ticker": "KO",
       "action": "ATTENTE",
-      "prix": 96.86,
+      "prix": 96.91,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
         "sma20": 93.93,
         "sma50": 90.14,
-        "rsi": 64.1,
-        "macd_histogramme": 0.175,
-        "atr": 1.97
+        "rsi": 64.2,
+        "macd_histogramme": 0.178,
+        "atr": 1.98
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:49.002451+00:00"
+      "horodatage": "2026-11-11T00:44:02.525841+00:00"
     },
     {
       "ticker": "NFLX",
       "action": "ATTENTE",
-      "prix": 62.82,
+      "prix": 63.26,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 65.53,
-        "sma50": 70.31,
-        "rsi": 43.1,
-        "macd_histogramme": 0.202,
+        "sma20": 65.55,
+        "sma50": 70.32,
+        "rsi": 44.3,
+        "macd_histogramme": 0.23,
         "atr": 1.88
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:49.643811+00:00"
+      "horodatage": "2026-11-11T00:44:03.148038+00:00"
     },
     {
       "ticker": "ADBE",
       "action": "ATTENTE",
-      "prix": 234.35,
+      "prix": 236.7,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 249.47,
-        "sma50": 248.99,
-        "rsi": 34.3,
-        "macd_histogramme": -1.917,
+        "sma20": 249.59,
+        "sma50": 249.04,
+        "rsi": 35.5,
+        "macd_histogramme": -1.767,
         "atr": 9.02
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:50.297871+00:00"
+      "horodatage": "2026-11-11T00:44:03.759890+00:00"
     },
     {
       "ticker": "CRM",
       "action": "ATTENTE",
-      "prix": 210.79,
+      "prix": 213.48,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 233.84,
-        "sma50": 237.65,
-        "rsi": 25.3,
-        "macd_histogramme": -3.252,
+        "sma20": 233.98,
+        "sma50": 237.7,
+        "rsi": 26.5,
+        "macd_histogramme": -3.08,
         "atr": 9.1
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:50.931378+00:00"
+      "horodatage": "2026-11-11T00:44:04.392248+00:00"
     },
     {
       "ticker": "INTC",
       "action": "ATTENTE",
-      "prix": 57.6,
+      "prix": 58.13,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 78.72,
-        "sma50": 96.71,
-        "rsi": 25.0,
-        "macd_histogramme": -2.324,
-        "atr": 6.46
+        "sma20": 78.74,
+        "sma50": 96.72,
+        "rsi": 25.2,
+        "macd_histogramme": -2.29,
+        "atr": 6.47
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:51.638890+00:00"
+      "horodatage": "2026-11-11T00:44:05.053248+00:00"
     },
     {
       "ticker": "CSCO",
       "action": "ATTENTE",
-      "prix": 98.28,
+      "prix": 98.15,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
         "sma20": 105.12,
         "sma50": 108.16,
-        "rsi": 37.4,
-        "macd_histogramme": -1.078,
+        "rsi": 37.2,
+        "macd_histogramme": -1.086,
         "atr": 3.91
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:52.291900+00:00"
+      "horodatage": "2026-11-11T00:44:05.675904+00:00"
     },
     {
       "ticker": "PEP",
       "action": "ATTENTE",
-      "prix": 143.34,
+      "prix": 143.61,
       "raisons": [
         "Aucun signal fort détecté — tendance et momentum ne sont pas alignés"
       ],
       "indicateurs": {
-        "sma20": 136.41,
+        "sma20": 136.42,
         "sma50": 133.32,
-        "rsi": 64.4,
-        "macd_histogramme": 0.843,
+        "rsi": 64.7,
+        "macd_histogramme": 0.86,
         "atr": 3.56
       },
       "stop_loss_suggere": null,
       "take_profit_suggere": null,
-      "horodatage": "2026-11-10T20:06:52.994390+00:00"
+      "horodatage": "2026-11-11T00:44:06.368077+00:00"
     }
   ]
 }
